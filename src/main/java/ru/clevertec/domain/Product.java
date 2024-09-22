@@ -1,4 +1,4 @@
-package ru.clevertec;
+package ru.clevertec.domain;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
